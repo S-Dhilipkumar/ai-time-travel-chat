@@ -9,7 +9,7 @@ import google.generativeai as genai
 # export GOOGLE_API_KEY='YOUR_API_KEY'
 
 try:
-    GOOGLE_API_KEY='AIzaSyAaZu7mLKWXQrMlHWyMthPALSEh0SGkp2I'
+    GOOGLE_API_KEY='YOUR API KEY'
     genai.configure(api_key=GOOGLE_API_KEY)  # Fixed: Removed square brackets
     print("✅ Gemini API configured successfully.")
     
