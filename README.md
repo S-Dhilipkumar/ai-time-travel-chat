@@ -39,8 +39,8 @@ Ever wondered what it would be like to talk to a **robotic nurse from Delhi, 212
 
 Here’s a preview of the chatbot in action:
 
-![ChronoBot Terminal Demo](./assets/demo1.png)
-![ChronoBot Terminal Demo](./assets/demo2.png)
+![ChronoBot Terminal Demo](./demo1.png)
+![ChronoBot Terminal Demo](./demo2.png)
 
 
 ## 📦 Installation
